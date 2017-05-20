@@ -1,0 +1,9 @@
+.cart__product {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.cart__productTitle {
+  margin-left: 10px;
+}

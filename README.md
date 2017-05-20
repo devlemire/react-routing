@@ -2,6 +2,29 @@
 
 # Project Summary
 
+<b>In this project we will..</b>
+
+## Setup
+
+* `Fork` and `clone` this repository.
+* `cd` into the project.
+* Run `npm i` to install the required dependencies.
+* Run `npm start` to spin up the development server.
+
+## Step 1
+
+### Summary
+
+In this step, we will install `react-router-dom` and import it into `router.js` to start configuring our router.
+
+### Instructions
+
+* In your terminal, run `npm i react-router-dom` when in the root directory of the project.
+* Open `src/router.js`.
+* Import `React` from `react`.
+* Import `Switch` and `Route` from `react-router-dom`.
+* Create an empty export default statement using `( )`.
+* Inside the parenthesis return a `Switch` component with a nested `Route` component.
 
 
 
